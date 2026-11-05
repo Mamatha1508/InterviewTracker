@@ -1,0 +1,28 @@
+[
+    {
+        "name": "swati",
+        "company": "MOENGAGE",
+        "channel": "LinkedIn",
+        "status": "Sent",
+        "follow_up_date": "5 days"
+    },
+    {
+        "name": "Alice",
+        "company": "SPOTDRAFT",
+        "channel": "LinkedIn",
+        "status": "Sent",
+        "follow_up_date": "5 days"
+    },
+    {
+        "name": "Amrita",
+        "company": "  Credera",
+        "channel": "LinkedIn",
+        "status": "Yet to message"
+    },
+    {
+        "name": "Akshay",
+        "company": "Deloitte",
+        "channel": "LinkedIn",
+        "status": "Yet to message"
+    }
+]
