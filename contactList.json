@@ -1,28 +1,30 @@
 [
     {
         "name": "swati",
-        "company": "MOENGAGE",
+        "company": "  MoEngage",
         "channel": "LinkedIn",
         "status": "Sent",
-        "follow_up_date": "5 days"
+        "follow_up_date": " 7 Nov 2026"
     },
     {
         "name": "Alice",
-        "company": "SPOTDRAFT",
+        "company": "Spotdraft",
         "channel": "LinkedIn",
         "status": "Sent",
-        "follow_up_date": "5 days"
+        "follow_up_date": " 8 Nov 2026"
     },
     {
         "name": "Amrita",
         "company": "  Credera",
         "channel": "LinkedIn",
-        "status": "Yet to message"
+        "status": "Yet to message",
+        "follow_up_date": " 9 Nov, 2026"
     },
     {
         "name": "Akshay",
         "company": "Deloitte",
         "channel": "LinkedIn",
-        "status": "Yet to message"
+        "status": "Yet to message",
+        "follow_up_date": " 10 Nov, 2026"
     }
 ]
